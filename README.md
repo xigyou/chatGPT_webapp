@@ -26,9 +26,9 @@ cd chatGPT_webapp
 export OPENAI_API_KEY=$your_openAI_key
 
 chatgpt_webapp/chatGPT_webapp.py \
---IP [your server IP, e.g 0.0.0.0] \
---Port 5010[default] \
---model_engine 'gpt-3.5-turbo'[default]
+--IP 0.0.0.0 \
+--Port 5010\
+--model_engine 'gpt-3.5-turbo'
 
 chatGPT_webapp.py --help # for usage
 ```
