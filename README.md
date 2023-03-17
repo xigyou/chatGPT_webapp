@@ -41,6 +41,7 @@ https://danxu-git.github.io/chatGPT_webapp/
 [注册openAI账号教程链接](https://sms-activate.org/cn/info/ChatGPT)
 
 申请openAI API Key:  
+入口：https://platform.openai.com/
 \>登陆账号后点击右上角personal个人头像 -\> View API keys -\> create new
 secret key,  
 \>复制key创建一个环境变量， export OPENAI_API_KEY=\$your_key
