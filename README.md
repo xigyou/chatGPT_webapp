@@ -13,7 +13,7 @@ expected
 ## Install
 
 ``` sh
-pip install openai, gradio, fire
+mamba install -c conda-forge openai gradio fire
 
 git clone https://github.com/DanXu-git/chatGPT_webapp
 ```
